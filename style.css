@@ -1,0 +1,27 @@
+body
+{
+    background-color: blue;
+    text-align: center;
+}
+
+#main_text{
+    background-color: chartreuse;
+}
+
+#play_btn{
+    background-color: chartreuse;
+}
+
+#sub_text{
+    background-color: aquamarine;
+    color: black;
+}
+
+#status{
+    color: black;
+    background-color: yellow;
+}
+
+.modal-dialog {
+    width: 90%;
+}
